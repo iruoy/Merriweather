@@ -100,7 +100,7 @@ Abaza, Abkhaz, Adyghe, Agul, Akhvakh, Altay, Andi, Archi, Avar, Azerbaijani (Cyr
 
 There are 2 source files, one for Romans and one of Italics, in the [GlyphsApp](https://www.glyphsapp.com) format.
 
-To contribute to the project, file issues at <https://github.com/EbenSorkin/Merriweather> or contact Eben Sorkin directly at <sorkineben@gmail.com>
+To contribute to the project, file issues at <https://github.com/SorkinType/Merriweather> or contact Eben Sorkin directly at <sorkineben@gmail.com>
 
 ## Build Process
 
@@ -428,7 +428,7 @@ This list is in first name alphabetical order.
 ## License
 
 Merriweather is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/EbenSorkin/Merriweather/blob/master/OFL.txt)
+To view the copyright and specific terms and conditions please refer to [OFL.txt](./OFL.txt)
 
 
 ## 120 static styles:
