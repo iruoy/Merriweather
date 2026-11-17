@@ -427,7 +427,7 @@ This list is in first name alphabetical order.
 	
 ## License
 
-Merriweather is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+Merriweather is licensed under the SIL Open Font License v1.1 (<https://openfontlicense.org>)
 To view the copyright and specific terms and conditions please refer to [OFL.txt](./OFL.txt)
 
 
