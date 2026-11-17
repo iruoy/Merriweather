@@ -136222,7 +136222,7 @@ layers = (
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{750, 0}";
 }
 );
 components = (
@@ -136241,7 +136241,7 @@ width = 1374;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{854, 0}";
 }
 );
 components = (
@@ -136260,7 +136260,7 @@ width = 1560;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{648, 0}";
 }
 );
 components = (
@@ -136279,7 +136279,7 @@ width = 1228;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{757, 0}";
 }
 );
 components = (
@@ -136298,7 +136298,7 @@ width = 1368;
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{713, 0}";
 }
 );
 components = (
@@ -136317,7 +136317,7 @@ width = 1226;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{672, 0}";
 }
 );
 components = (
@@ -136336,7 +136336,7 @@ width = 1193;
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{555, 0}";
 }
 );
 components = (
@@ -136355,7 +136355,7 @@ width = 1019;
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{580, 0}";
 }
 );
 components = (
@@ -136374,7 +136374,7 @@ width = 1044;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{679, 0}";
 }
 );
 components = (
@@ -136393,7 +136393,7 @@ width = 1269;
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{624, 0}";
 }
 );
 components = (
@@ -136412,7 +136412,7 @@ width = 1090;
 anchors = (
 {
 name = caret_1;
-position = "{737, 0}";
+position = "{796, 0}";
 }
 );
 components = (
@@ -136434,7 +136434,7 @@ width = 1420;
 anchors = (
 {
 name = caret_1;
-position = "{772, 0}";
+position = "{864, 0}";
 }
 );
 components = (

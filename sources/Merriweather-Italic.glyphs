@@ -133247,6 +133247,12 @@ glyphname = fi;
 lastChange = "2020-05-13 18:38:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{704, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133260,6 +133266,12 @@ layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 width = 1301;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{704, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133273,6 +133285,12 @@ layerId = "27298932-82AF-4578-9425-6304FDB19058";
 width = 1363;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{607, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133286,6 +133304,12 @@ layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 width = 1113;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{647, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133299,6 +133323,12 @@ layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 width = 1238;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{710, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133312,6 +133342,12 @@ layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 width = 1254;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{802, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133325,6 +133361,12 @@ layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 width = 1402;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{545, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133338,6 +133380,12 @@ layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 width = 984;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{630, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133351,6 +133399,12 @@ layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 width = 1181;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{526, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133364,6 +133418,12 @@ layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 width = 957;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{601, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133377,6 +133437,12 @@ layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 width = 1137;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{624, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133390,6 +133456,12 @@ layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 width = 1064;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{649, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133414,6 +133486,12 @@ glyphname = fl;
 lastChange = "2020-05-13 18:38:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{742, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133427,6 +133505,12 @@ layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 width = 1323;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{724, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133440,6 +133524,12 @@ layerId = "27298932-82AF-4578-9425-6304FDB19058";
 width = 1354;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{607, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133453,6 +133543,12 @@ layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 width = 1103;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133466,6 +133562,12 @@ layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 width = 1239;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{713, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133479,6 +133581,12 @@ layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 width = 1257;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{797, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133492,6 +133600,12 @@ layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 width = 1397;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{623, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133505,6 +133619,12 @@ layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 width = 1050;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{650, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133518,6 +133638,12 @@ layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 width = 1194;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{526, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133531,6 +133657,12 @@ layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 width = 951;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{601, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133544,6 +133676,12 @@ layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 width = 1122;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{604, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -133557,6 +133695,12 @@ layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 width = 1038;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{664, 0}";
+}
+);
 components = (
 {
 name = f;
