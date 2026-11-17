@@ -2,13 +2,23 @@
 name = "merriweather-build"
 version = "0.0.0"
 description = "Build toolchain for the Merriweather typeface"
-requires-python = ">=3.11"
+requires-python = ">=3.15"
 dependencies = [
-    "bumpfontversion",
-    "font-v",
-    "gftools",
+    "bumpfontversion>=0.4.1",
+    "font-v>=2.1.0",
+    "fontbakery>=1.1.0",
+    "gftools>=0.10.8",
+    # Needed by Font Bakery's Google Fonts checks. Listed directly instead of
+    # via fontbakery[googlefonts], which pins protobuf<4 and so an old gftools.
+    "shaperglot>=1.2.1",
 ]
 
 [tool.uv]
 # This is a toolchain environment, not an installable package
 package = false
+
+# shaperglot (needed by Font Bakery's Google Fonts checks) has no wheels for
+# Python 3.15 yet, so it's built from source, which needs Rust. Its PyO3
+# version predates Python 3.15, so build it against the stable ABI.
+[tool.uv.extra-build-variables]
+shaperglot = { PYO3_USE_ABI3_FORWARD_COMPATIBILITY = "1" }

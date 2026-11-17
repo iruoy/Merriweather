@@ -3,4 +3,7 @@ sources:
   - Merriweather-Italic.glyphs
 includeSourceFixes: true
 autohintTTF: false
+# Only build the Merriweather family, not an extra "Merriweather SC" family
+# made from the smcp feature
+buildSmallCap: false
 outputDir: "../fonts"
