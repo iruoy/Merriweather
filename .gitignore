@@ -1,4 +1,17 @@
-.venv
+# OS files
 .DS_Store
+
+# Glyphs autosaves and backups
 *(Autosaved)*
-sources/master_ufo/
+*.backup
+
+# Python environment
+.venv
+
+# gftools builder output
+sources/instance_ufos/
+sources/build.ninja
+sources/.ninja_log
+
+# Font Bakery reports (sources/check.sh)
+fontbakery/
