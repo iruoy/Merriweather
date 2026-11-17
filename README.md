@@ -104,81 +104,45 @@ To contribute to the project, file issues at <https://github.com/SorkinType/Merr
 
 ## Build Process
 
-The sources can be built with FontMake and Statmake. These are run with .sh and .py scripts. Additions to these scripts may be made.
+The fonts are built from the GlyphsApp sources with the [Google Fonts builder](https://github.com/googlefonts/gftools) (`gftools builder`), which uses fontmake. The build settings are in `sources/config.yaml`.
 
 ### Step 1: Set up the project locally
 
-The build process requires you to open up a terminal and navigate to this project's directory. Open a terminal, then navigate to the a directory (folder) for type projects, and git clone this repo.
+Clone this repo:
 
 ```bash
-cd path/to/type_repos_directory
-
-# then
 git clone https://github.com/SorkinType/Merriweather.git
+cd Merriweather
 ```
 
-You should use a Python virtual environment to build this project. If you've never set up a virtual environment before, [read more about it in this guide](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments).
-
-You can set up a Python 3 virtual environment with:
+The build tools are installed with [uv](https://docs.astral.sh/uv/), which also installs the Python version the project uses. Some of the tools don't have ready-made packages for that Python version yet, so they're built when they're installed. That needs [Rust](https://rustup.rs/) and libgit2. On macOS, with [Homebrew](https://brew.sh/):
 
 ```bash
-python3 -m venv ./venv
+brew install uv libgit2
 ```
 
-Here, `python3 -m venv` calls the virtual-environment-making module, then the `./venv` gives it a path to setup a virtual environment in (you could give a different path, but this is a conventional name).
+On Debian or Ubuntu, install uv as described in its [documentation](https://docs.astral.sh/uv/getting-started/installation/), and libgit2 with `sudo apt install libgit2-dev`.
 
-Before you install dependencies or run the build, you need to activate the virtual environment with:
+uv sets up the environment (in `.venv`) with the exact versions from `uv.lock` the first time you run a command with `uv run`. To set it up beforehand, run `uv sync`.
+
+### Step 2: Build the fonts
 
 ```bash
-source venv/bin/activate
+cd sources
+uv run gftools builder config.yaml
 ```
 
-If you wish exit out of the virtual environment, you can use the command `deactivate` (just remember to start it up again if you come back). You can also simply close the terminal session.
+This builds the variable fonts, the static TTF and OTF fonts and the WOFF2 webfonts into the `fonts` folder.
 
-Once you've activated the venv, install requirements by pointing pip to the `requirements.txt` file:
+### Step 3: Check the fonts
+
+To check the variable fonts with [Font Bakery](https://github.com/fonttools/fontbakery), run this from the project folder:
 
 ```bash
-brew install zlib jpeg
-pip install -r requirements.txt
+sources/check.sh
 ```
 
-**Setting up for woff & woff2 conversion**
-
-The build script also converts outputs to web-ready formats, `woff` & `woff2`.
-
-To enable this, use Homebrew ([install it from here](https://brew.sh/) if you haven't already) to get tools from [bramstein/homebrew-webfonttools](https://github.com/bramstein/homebrew-webfonttools):
-
-```
-brew install woff2
-brew install sfnt2woff-zopfli
-```
-
-**Installing TTFautohint (for static builds only)**
-
-Download the latest version of TTFautohint from https://sourceforge.net/projects/freetype/files/ttfautohint/, unzip the file (e.g. `ttfautohint-1.8.3-tty-osx.tar.gz`), and place the unix executable file directly into the new `venv/bin` within this project.
-
-### Step 2: Give permissions to build scripts
-
-The first time you run the build, you will need to give run permissions to the build scripts.
-
-On the command line, navigate to the project folder (`cd Merriweather`), and then give permissions to the shell scripts with:
-
-```bash
-chmod +x sources/*.sh
-```
-
-Using `chmod +x` gives shell scripts execute permissions. In general, before you do this for shell scripts, you should probably take a look through their contents, to be sure they aren't doing anything you don't want them to do. The ones in this repo simply build from the GlyphsApp sources and apply various fixes to the results.
-
-### Step 3: Run the build scripts!
-
-Now, run the build script by entering its relative path in your terminal:
-
-```bash
-sources/build.sh
-```
-The Script build.sh calls subscripts which can also be run individually if needed. For example build-var.sh and build-statics.sh
-
-If you've set up your dependencies correctly, it should build and place fonts into the `/fonts` sub-directory of the project.
+The report is saved to `fontbakery/variable.md`.
 
 ## ChangeLog
 
