@@ -208289,6 +208289,12 @@ glyphname = "Hardsign-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{890, 1486}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -208342,6 +208348,12 @@ nodes = (
 width = 1502;
 },
 {
+anchors = (
+{
+name = top;
+position = "{958, 1486}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -208395,6 +208407,12 @@ nodes = (
 width = 1671;
 },
 {
+anchors = (
+{
+name = top;
+position = "{901, 1486}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -208448,6 +208466,12 @@ nodes = (
 width = 1561;
 },
 {
+anchors = (
+{
+name = top;
+position = "{806, 1486}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -208501,6 +208525,12 @@ nodes = (
 width = 1326;
 },
 {
+anchors = (
+{
+name = top;
+position = "{998, 1486}";
+}
+);
 color = 10;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
@@ -208555,6 +208585,12 @@ nodes = (
 width = 1729;
 },
 {
+anchors = (
+{
+name = top;
+position = "{952, 1486}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -208608,6 +208644,12 @@ nodes = (
 width = 1586;
 },
 {
+anchors = (
+{
+name = top;
+position = "{953, 1486}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -208661,6 +208703,12 @@ nodes = (
 width = 1663;
 },
 {
+anchors = (
+{
+name = top;
+position = "{901, 1486}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -208714,6 +208762,12 @@ nodes = (
 width = 1493;
 },
 {
+anchors = (
+{
+name = top;
+position = "{928, 1486}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -208767,6 +208821,12 @@ nodes = (
 width = 1574;
 },
 {
+anchors = (
+{
+name = top;
+position = "{834, 1486}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -208820,6 +208880,12 @@ nodes = (
 width = 1374;
 },
 {
+anchors = (
+{
+name = top;
+position = "{1011, 1486}";
+}
+);
 annotations = (
 {
 position = "{1471, 260}";
@@ -208879,6 +208945,12 @@ nodes = (
 width = 1793;
 },
 {
+anchors = (
+{
+name = top;
+position = "{943, 1486}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -211088,6 +211160,12 @@ glyphname = "E-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{761, 1486}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -211139,6 +211217,12 @@ nodes = (
 width = 1238;
 },
 {
+anchors = (
+{
+name = top;
+position = "{795, 1486}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -211190,6 +211274,12 @@ nodes = (
 width = 1299;
 },
 {
+anchors = (
+{
+name = top;
+position = "{722, 1486}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -211241,6 +211331,12 @@ nodes = (
 width = 1146;
 },
 {
+anchors = (
+{
+name = top;
+position = "{700, 1486}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -211292,6 +211388,12 @@ nodes = (
 width = 1107;
 },
 {
+anchors = (
+{
+name = top;
+position = "{850, 1486}";
+}
+);
 color = 10;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
@@ -211344,6 +211446,12 @@ nodes = (
 width = 1407;
 },
 {
+anchors = (
+{
+name = top;
+position = "{814, 1486}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -211395,6 +211503,12 @@ nodes = (
 width = 1352;
 },
 {
+anchors = (
+{
+name = top;
+position = "{782, 1486}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -211446,6 +211560,12 @@ nodes = (
 width = 1239;
 },
 {
+anchors = (
+{
+name = top;
+position = "{744, 1486}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -211497,6 +211617,12 @@ nodes = (
 width = 1224;
 },
 {
+anchors = (
+{
+name = top;
+position = "{718, 1486}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -211548,6 +211674,12 @@ nodes = (
 width = 1101;
 },
 {
+anchors = (
+{
+name = top;
+position = "{680, 1486}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -211599,6 +211731,12 @@ nodes = (
 width = 1098;
 },
 {
+anchors = (
+{
+name = top;
+position = "{802, 1486}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -211650,6 +211788,12 @@ nodes = (
 width = 1266;
 },
 {
+anchors = (
+{
+name = top;
+position = "{776, 1486}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -242376,6 +242520,12 @@ glyphname = "Reversedze-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{710, 1486}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -242434,6 +242584,12 @@ nodes = (
 width = 1158;
 },
 {
+anchors = (
+{
+name = top;
+position = "{749, 1486}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -242492,6 +242648,12 @@ nodes = (
 width = 1249;
 },
 {
+anchors = (
+{
+name = top;
+position = "{680, 1486}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -242550,6 +242712,12 @@ nodes = (
 width = 1136;
 },
 {
+anchors = (
+{
+name = top;
+position = "{644, 1486}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -242608,6 +242776,12 @@ nodes = (
 width = 1048;
 },
 {
+anchors = (
+{
+name = top;
+position = "{750, 1486}";
+}
+);
 color = 10;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
@@ -242667,6 +242841,12 @@ nodes = (
 width = 1270;
 },
 {
+anchors = (
+{
+name = top;
+position = "{681, 1486}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -242725,6 +242905,12 @@ nodes = (
 width = 1124;
 },
 {
+anchors = (
+{
+name = top;
+position = "{749, 1486}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -242783,6 +242969,12 @@ nodes = (
 width = 1249;
 },
 {
+anchors = (
+{
+name = top;
+position = "{676, 1486}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -242841,6 +243033,12 @@ nodes = (
 width = 1019;
 },
 {
+anchors = (
+{
+name = top;
+position = "{749, 1486}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -242899,6 +243097,12 @@ nodes = (
 width = 1249;
 },
 {
+anchors = (
+{
+name = top;
+position = "{614, 1486}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -242957,6 +243161,12 @@ nodes = (
 width = 955;
 },
 {
+anchors = (
+{
+name = top;
+position = "{750, 1486}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -243015,6 +243225,12 @@ nodes = (
 width = 1249;
 },
 {
+anchors = (
+{
+name = top;
+position = "{679, 1486}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -263399,6 +263615,12 @@ glyphname = "hardsign-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{738, 1110}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -263474,6 +263696,12 @@ nodes = (
 width = 1285;
 },
 {
+anchors = (
+{
+name = top;
+position = "{776, 1110}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -263549,6 +263777,12 @@ nodes = (
 width = 1353;
 },
 {
+anchors = (
+{
+name = top;
+position = "{705, 1110}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -263624,6 +263858,12 @@ nodes = (
 width = 1246;
 },
 {
+anchors = (
+{
+name = top;
+position = "{680, 1110}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -263699,6 +263939,12 @@ nodes = (
 width = 1191;
 },
 {
+anchors = (
+{
+name = top;
+position = "{768, 1110}";
+}
+);
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
 {
@@ -263774,6 +264020,12 @@ nodes = (
 width = 1390;
 },
 {
+anchors = (
+{
+name = top;
+position = "{726, 1110}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -263849,6 +264101,12 @@ nodes = (
 width = 1292;
 },
 {
+anchors = (
+{
+name = top;
+position = "{665, 1110}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -263924,6 +264182,12 @@ nodes = (
 width = 1182;
 },
 {
+anchors = (
+{
+name = top;
+position = "{684, 1110}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -263999,6 +264263,12 @@ nodes = (
 width = 1169;
 },
 {
+anchors = (
+{
+name = top;
+position = "{618, 1110}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -264074,6 +264344,12 @@ nodes = (
 width = 1083;
 },
 {
+anchors = (
+{
+name = top;
+position = "{644, 1110}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -264149,6 +264425,12 @@ nodes = (
 width = 1077;
 },
 {
+anchors = (
+{
+name = top;
+position = "{688, 1110}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -264224,6 +264506,12 @@ nodes = (
 width = 1234;
 },
 {
+anchors = (
+{
+name = top;
+position = "{740, 1110}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -269315,6 +269603,12 @@ glyphname = "iu-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{900, 1110}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -269368,6 +269662,12 @@ nodes = (
 width = 1609;
 },
 {
+anchors = (
+{
+name = top;
+position = "{967, 1110}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -269421,6 +269721,12 @@ nodes = (
 width = 1772;
 },
 {
+anchors = (
+{
+name = top;
+position = "{891, 1110}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -269474,6 +269780,12 @@ nodes = (
 width = 1599;
 },
 {
+anchors = (
+{
+name = top;
+position = "{845, 1110}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -269527,6 +269839,12 @@ nodes = (
 width = 1494;
 },
 {
+anchors = (
+{
+name = top;
+position = "{1008, 1110}";
+}
+);
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
 {
@@ -269580,6 +269898,12 @@ nodes = (
 width = 1853;
 },
 {
+anchors = (
+{
+name = top;
+position = "{929, 1110}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -269633,6 +269957,12 @@ nodes = (
 width = 1669;
 },
 {
+anchors = (
+{
+name = top;
+position = "{909, 1110}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -269686,6 +270016,12 @@ nodes = (
 width = 1621;
 },
 {
+anchors = (
+{
+name = top;
+position = "{793, 1110}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -269739,6 +270075,12 @@ nodes = (
 width = 1386;
 },
 {
+anchors = (
+{
+name = top;
+position = "{847, 1110}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -269792,6 +270134,12 @@ nodes = (
 width = 1508;
 },
 {
+anchors = (
+{
+name = top;
+position = "{783, 1110}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -269845,6 +270193,12 @@ nodes = (
 width = 1366;
 },
 {
+anchors = (
+{
+name = top;
+position = "{963, 1110}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -269898,6 +270252,12 @@ nodes = (
 width = 1741;
 },
 {
+anchors = (
+{
+name = top;
+position = "{849, 1110}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -269962,6 +270322,12 @@ glyphname = "ia-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{560, 1110}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -270032,6 +270398,12 @@ nodes = (
 width = 1092;
 },
 {
+anchors = (
+{
+name = top;
+position = "{622, 1110}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -270102,6 +270474,12 @@ nodes = (
 width = 1199;
 },
 {
+anchors = (
+{
+name = top;
+position = "{539, 1110}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -270172,6 +270550,12 @@ nodes = (
 width = 1055;
 },
 {
+anchors = (
+{
+name = top;
+position = "{501, 1110}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -270242,6 +270626,12 @@ nodes = (
 width = 982;
 },
 {
+anchors = (
+{
+name = top;
+position = "{635, 1110}";
+}
+);
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
 {
@@ -270312,6 +270702,12 @@ nodes = (
 width = 1199;
 },
 {
+anchors = (
+{
+name = top;
+position = "{588, 1110}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -270382,6 +270778,12 @@ nodes = (
 width = 1098;
 },
 {
+anchors = (
+{
+name = top;
+position = "{617, 1110}";
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 paths = (
 {
@@ -270452,6 +270854,12 @@ nodes = (
 width = 1106;
 },
 {
+anchors = (
+{
+name = top;
+position = "{498, 1110}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -270522,6 +270930,12 @@ nodes = (
 width = 924;
 },
 {
+anchors = (
+{
+name = top;
+position = "{569, 1110}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -270592,6 +271006,12 @@ nodes = (
 width = 1033;
 },
 {
+anchors = (
+{
+name = top;
+position = "{479, 1110}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -270662,6 +271082,12 @@ nodes = (
 width = 891;
 },
 {
+anchors = (
+{
+name = top;
+position = "{646, 1110}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -270732,6 +271158,12 @@ nodes = (
 width = 1183;
 },
 {
+anchors = (
+{
+name = top;
+position = "{509, 1110}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
@@ -297739,6 +298171,12 @@ glyphname = "reversedze-cy";
 lastChange = "2020-05-13 18:38:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{506, 1110}";
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 paths = (
 {
@@ -297792,6 +298230,12 @@ nodes = (
 width = 817;
 },
 {
+anchors = (
+{
+name = top;
+position = "{554, 1110}";
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 paths = (
 {
@@ -297845,6 +298289,12 @@ nodes = (
 width = 896;
 },
 {
+anchors = (
+{
+name = top;
+position = "{518, 1110}";
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 paths = (
 {
@@ -297898,6 +298348,12 @@ nodes = (
 width = 819;
 },
 {
+anchors = (
+{
+name = top;
+position = "{479, 1110}";
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 paths = (
 {
@@ -297951,6 +298407,12 @@ nodes = (
 width = 761;
 },
 {
+anchors = (
+{
+name = top;
+position = "{586, 1110}";
+}
+);
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 paths = (
 {
@@ -298004,6 +298466,12 @@ nodes = (
 width = 958;
 },
 {
+anchors = (
+{
+name = top;
+position = "{531, 1110}";
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 paths = (
 {
@@ -298057,6 +298525,12 @@ nodes = (
 width = 868;
 },
 {
+anchors = (
+{
+name = top;
+position = "{527, 1110}";
+}
+);
 hints = (
 {
 place = "{654, 306}";
@@ -298116,6 +298590,12 @@ nodes = (
 width = 815;
 },
 {
+anchors = (
+{
+name = top;
+position = "{481, 1110}";
+}
+);
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 paths = (
 {
@@ -298169,6 +298649,12 @@ nodes = (
 width = 739;
 },
 {
+anchors = (
+{
+name = top;
+position = "{485, 1110}";
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 paths = (
 {
@@ -298222,6 +298708,12 @@ nodes = (
 width = 766;
 },
 {
+anchors = (
+{
+name = top;
+position = "{449, 1110}";
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 paths = (
 {
@@ -298275,6 +298767,12 @@ nodes = (
 width = 674;
 },
 {
+anchors = (
+{
+name = top;
+position = "{557, 1110}";
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 paths = (
 {
@@ -298328,6 +298826,12 @@ nodes = (
 width = 880;
 },
 {
+anchors = (
+{
+name = top;
+position = "{519, 1110}";
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 paths = (
 {
