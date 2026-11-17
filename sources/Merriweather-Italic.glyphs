@@ -835,14 +835,6 @@ name = case;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f i by fi;
-sub f l by fl;
-";
-name = liga;
-},
-{
-automatic = 1;
 code = "sub question by question.ss01;
 sub questiondown by questiondown.ss01;
 sub quotesinglbase by quotesinglbase.ss01;
@@ -1704,6 +1696,14 @@ sub question.ss01 by question.ss01.sc;
 sub questiondown.ss01 by questiondown.ss01.sc;
 ";
 name = c2sc;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+";
+name = liga;
 },
 {
 automatic = 1;
