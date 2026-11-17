@@ -1,0 +1,14 @@
+[project]
+name = "merriweather-build"
+version = "0.0.0"
+description = "Build toolchain for the Merriweather typeface"
+requires-python = ">=3.11"
+dependencies = [
+    "bumpfontversion",
+    "font-v",
+    "gftools",
+]
+
+[tool.uv]
+# This is a toolchain environment, not an installable package
+package = false
