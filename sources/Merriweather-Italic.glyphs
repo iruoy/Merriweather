@@ -1738,6 +1738,7 @@ sub quotereversed by quotereversed.ss01;
 sub dollar by dollar.ss01;
 ";
 name = ss01;
+notes = "Name: Alternate quotes, question marks and dollar sign";
 },
 {
 code = "lookup capSharpS {
