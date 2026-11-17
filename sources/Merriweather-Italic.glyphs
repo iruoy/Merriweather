@@ -210,43 +210,41 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	language CRT;
-	language KAZ;
-	language TAT;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
-
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
-
+language MOL;
+lookup locl_latn_1;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_2;
-
+language NLD;
 lookup locl_latn_3 {
-	script latn;
-	language NLD;
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_3;
-
+script cyrl;
+language BGR;
 lookup locl_cyrl_0 {
-	script cyrl;
-	language BGR;
 	sub De-cy by De-cy.loclBGR;
 	sub Ii-cy by Ii-cy.loclBGR;
 	sub Iishort-cy by Iishort-cy.loclBGR;
@@ -273,10 +271,8 @@ lookup locl_cyrl_0 {
 	sub hardsign-cy by hardsign-cy.loclBGR;
 	sub iu-cy by iu-cy.loclBGR;
 } locl_cyrl_0;
-
+language BSH;
 lookup locl_cyrl_1 {
-	script cyrl;
-	language BSH;
 	sub Ghestroke-cy by Ghestroke-cy.loclBSH;
 	sub Zedescender-cy by Zedescender-cy.loclBSH;
 	sub Esdescender-cy by Esdescender-cy.loclBSH;
@@ -284,23 +280,17 @@ lookup locl_cyrl_1 {
 	sub zedescender-cy by zedescender-cy.loclBSH;
 	sub esdescender-cy by esdescender-cy.loclBSH;
 } locl_cyrl_1;
-
+language CHU;
 lookup locl_cyrl_2 {
-	script cyrl;
-	language CHU;
 	sub Esdescender-cy by Esdescender-cy.loclCHU;
 	sub esdescender-cy by esdescender-cy.loclCHU;
 } locl_cyrl_2;
-
+language MKD;
 lookup locl_cyrl_3 {
-	script cyrl;
-	language MKD;
 	sub gje-cy by gje-cy.loclMKD;
 } locl_cyrl_3;
-
+language SRB;
 lookup locl_cyrl_4 {
-	script cyrl;
-	language SRB;
 	sub be-cy by be-cy.loclSRB;
 	sub ge-cy by ge-cy.loclSRB;
 	sub de-cy by de-cy.loclSRB;
