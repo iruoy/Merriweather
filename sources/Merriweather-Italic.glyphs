@@ -132562,7 +132562,9 @@ layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 width = 1241;
 }
 );
+leftKerningGroup = f;
 leftMetricsKey = f;
+rightKerningGroup = l;
 rightMetricsKey = i;
 unicode = FB01;
 },
@@ -132727,7 +132729,9 @@ layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 width = 1229;
 }
 );
+leftKerningGroup = f;
 leftMetricsKey = f;
+rightKerningGroup = l;
 rightMetricsKey = l;
 unicode = FB02;
 },
